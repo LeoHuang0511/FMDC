@@ -2,9 +2,8 @@
 
 Chang-Lin Wan, Feng-Kai Huang, Hong-Han Shuai
 
-Paper: [link](https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf)
-
-This is the official implementation of FMDC.
+This is the official implementation of [Density-Based Flow Mask Integration via Deformable Convolution for Video People Flux Estimation](https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf)
+.
 
 ## Requirements
 - Python 3.8.9
