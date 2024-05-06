@@ -46,7 +46,7 @@ This is the official implementation of [Density-Based Flow Mask Integration via 
   ```
 - For HT21 dataset:
   ```sh
-  python test_CARLA.py
+  python test_HT21.py
   ```
 
  
