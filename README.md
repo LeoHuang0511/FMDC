@@ -1,4 +1,4 @@
-# Density-Based Flow Mask Integration via Deformable Convolution for Video People Flux Estimation
+# FMDC (WACV 2024)
 
 Chang-Lin Wan, Feng-Kai Huang, Hong-Han Shuai
 
