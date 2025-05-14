@@ -39,7 +39,7 @@ This is the official implementation of [Density-Based Flow Mask Integration via 
   `__C.DATASET` can change the training dataset.
 
 ## Test
-- The pretrained weight for HT21 can download from [here](https://nycu1-my.sharepoint.com/personal/s311505011_ee11_m365_nycu_edu_tw/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fs311505011%5Fee11%5Fm365%5Fnycu%5Fedu%5Ftw%2FDocuments%2FWACV24%5FPeople%5FFlow%2Fep%5F13%5Fiter%5F33000%5Fmae%5F13%2E118%5Fmse%5F13%2E494%5Fseq%5FMAE%5F0%2E237%5FWRAE%5F0%2E273%5FMIAE%5F2%2E962%5FMOAE%5F1%2E968%2Epth&parent=%2Fpersonal%2Fs311505011%5Fee11%5Fm365%5Fnycu%5Fedu%5Ftw%2FDocuments%2FWACV24%5FPeople%5FFlow&p=14)-
+- The pretrained weight for HT21 can download from [here](https://drive.google.com/file/d/1G_J5HKOjEJn5LtTAHue9Exo7qMBiRv3O/view?usp=sharing)-
 - For CARLA dataset:
   ```sh
   python test_CARLA.py
